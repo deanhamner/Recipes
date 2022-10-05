@@ -1,0 +1,27 @@
+.unorder {
+    list-style-type: square;
+}
+
+.order {
+    list-style-type: upper-roman;
+}
+
+body {
+    background-color: lightblue;
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color:pink
+}
+
+a:active {
+    color: red;
+}
